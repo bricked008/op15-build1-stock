@@ -1,0 +1,11 @@
+Source: OnePlusOSS/android_kernel_common_oneplus_sm8850
+Branch: oneplus/sm8850_b_16.0.0_oneplus_15
+Commit: d9053b907db4bb5da938e9cf947d0ae32302ceaf
+Kernelrelease: 6.12.23-4k
+Stock .300: 6.12.23-android16-5-gb2a876903b49-ab14541642-4k
+Clang: Android (14043575, +pgo, +bolt, +lto, +mlgo, based on r536225) clang version 19.0.1 (https://android.googlesource.com/toolchain/llvm-project b3a530ec6537146650e42be89f1089e9a3588460)
+Rustc: rustc 1.82.0-dev (f6e511eec 2024-10-15) (Android Rust Toolchain version linux-12909517)
+KBUILD_GENDWARFKSYMS_STABLE: 1
+Image size: 40348160 bytes
+Build date: Fri Jun 26 16:24:20 UTC 2026
+Method: make gki_defconfig + make Image (direct GKI)
